@@ -1,2 +1,2 @@
 # WeatherUtil
-This IOS app utilizes Swift and Xcode for implementation.
+This IOS app utilizes swift code and Xcode for implementation.
